@@ -2,6 +2,8 @@
 
 A responsive and user-friendly web application that provides real-time weather updates, air quality information, and 5-day forecasts using the OpenWeatherMap API. The app allows users to search weather by city name or fetch data based on their current location using geolocation.
 
+https://6835f2e6470b06b2d2b6fc22--astounding-faun-c5dbdc.netlify.app/
+
 ## 🚀 Features
 
 - 🌍 **Current Weather**: Displays temperature, weather condition, icon, date, and location.
