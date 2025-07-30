@@ -26,5 +26,5 @@ https://6835f2e6470b06b2d2b6fc22--astounding-faun-c5dbdc.netlify.app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/yadavpratibha/weather-app.git
    cd weather-app
